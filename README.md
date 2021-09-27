@@ -8,7 +8,7 @@ Raising the server and setting up the API you can see [here](https://github.com/
 
 ## Using
 
-To use my bot write it `@patients_db_bot`
+To use my bot write it: @patients_db_bot
 
 
 ## Contacts:
